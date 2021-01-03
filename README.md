@@ -4,7 +4,7 @@ This repository contains the results obtained in a paper to be published in Ling
 
 ```
 Hartmann, N. S., and Aluísio, S. M. (2020). Automatic Lexical Adaptation in Brazilian Portuguese
-Informative Texts for Elementary Education. Linguamática. (TO BE PUBLISHED)
+Informative Texts for Elementary Education. Linguamática.
 ```
 
 In this new version of SIMPLEX-PB, the corpus was enriched with linguistic features. The new version of SIMPLEX also has definitions of complex words and annotations of technical terms. The corpus now is also able to be used for studies in Lexical Elaboration. Currently, the corpus has 52 columns of information.
